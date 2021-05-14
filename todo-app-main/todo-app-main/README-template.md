@@ -1,6 +1,6 @@
 # SharpCode- Todo app challange
 
-This is a challange prepared by Mere Daniel, a fullstack developer. This todo app challenge would help you improve your coding skills by building realistic projects. 
+This is a challange prepared by Akuegbu Hilda, a fullstack developer. This todo app challenge would help you improve your coding skills by building realistic projects. 
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
